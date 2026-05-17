@@ -1,19 +1,23 @@
-# Mi Entreno Pro - Rutina 3 días
+# Mi Entreno Pro - Lower / Upper / Lower
 
-Versión actualizada con rutina de 3 días y memoria del último entrenamiento.
+Versión actualizada para objetivo de pérdida de peso y fortalecimiento del tren inferior.
 
-## Cómo actualizar en GitHub/Vercel
-1. Descomprime este ZIP.
-2. Entra dentro de la carpeta hasta ver `package.json` y `src/`.
-3. Sube ese contenido a GitHub, no la carpeta contenedora.
-4. Haz Commit changes.
-5. Vercel desplegará automáticamente.
-6. En el móvil abre la URL en Chrome y recarga.
+## Rutina
+- Día 1: Pierna fuerza
+- Día 2: Torso + core
+- Día 3: Pierna metabólica
 
-## Novedades
-- Rutina 3 días: Torso A, Pierna y Torso B.
-- 6 ejercicios por día.
-- Al entrar en un ejercicio aparece el último entrenamiento anterior.
-- Botón “Copiar a hoy” para usar los pesos/reps previos como base.
-- Temporizador visible.
-- Series editables: añadir/quitar, peso/reps por serie.
+## Funciones
+- Pantalla individual por ejercicio
+- Temporizador visible
+- Peso y reps por serie
+- Añadir/quitar series
+- Marcado de series hechas
+- Temporizador automático al marcar serie
+- Último entrenamiento visible
+- Copiar pesos anteriores a hoy
+- Guardado local en el móvil
+
+## Publicar en Vercel
+Sube a GitHub el contenido de esta carpeta, no la carpeta contenedora.
+La raíz del repositorio debe tener package.json, index.html y src/.
